@@ -35,3 +35,4 @@ Smaller width.
 Smaller height.
 
 [[/Mordor/eye.jpg|height=100px]]
+    
