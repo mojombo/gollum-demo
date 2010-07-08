@@ -8,4 +8,6 @@ def foo
 end
 ```
 
+## Something else
+
 Tada! How about `inline :foo` code?
