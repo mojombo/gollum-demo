@@ -11,3 +11,7 @@ In Tolkien's narrative conceit, in which all the writings of Middle-earth are
 Bilbo is the author of The Hobbit and translator of The Silmarillion.
 
 From [http://en.wikipedia.org/wiki/Bilbo_Baggins](http://en.wikipedia.org/wiki/Bilbo_Baggins).
+
+<script type="text/javascript">
+document.write("Hello World!")
+</script>
