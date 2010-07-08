@@ -6,4 +6,4 @@ def foo
 end
 ```
 
-Tada!
+Tada! How about `inline :foo` code?
