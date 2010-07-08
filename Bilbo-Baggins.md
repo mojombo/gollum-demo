@@ -13,5 +13,5 @@ Bilbo is the author of The Hobbit and translator of The Silmarillion.
 From [http://en.wikipedia.org/wiki/Bilbo_Baggins](http://en.wikipedia.org/wiki/Bilbo_Baggins).
 
 <script type="text/javascript">
-document.write("Hello World!")
+document.write("<p>I am from a script!</p>")
 </script>
