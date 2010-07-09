@@ -1,5 +1,3 @@
-# Hobbit
-
 Hobbits rule. So do [[Elves]].
 
 Here are some hobbits:
