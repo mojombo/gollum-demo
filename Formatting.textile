@@ -1,0 +1,31 @@
+You can make your README formatted by putting README with specific extension.
+
+h2. Supported Formats
+
+|_. format |_. extension |
+| "rdoc":http://rdoc.rubyforge.org/RDoc.html | README.rdoc |
+| "Markdown":http://daringfireball.net/projects/markdown/syntax | README.markdown, README.md, README.mdown, README.mkd, README.mkdn|
+| "Textile":http://textile.thresholdstate.com/ | README.textile |
+| PNG | README.png (should display an image. At the moment, it isn't working) |
+| "reStructuredText":http://docutils.sourceforge.net/rst.html | README.rst |
+|"POD":http://en.wikipedia.org/wiki/Plain_Old_Documentation | README.pod |
+| (no formatting) | README.* (all but above extensions), README (no extension) |
+
+h2. Unsupported Formats
+
+* rd (README.rd)
+* html (README.html -- considered insecure)
+
+h2. Notes
+
+* If there is both README and README.foo, README.foo is displayed.  (This doesn't always seem to be true; README.txt is displayed before README, but README is displayed before README.somethingunusual.)
+* feature request: " format READMEs without an extension":http://logicalawesome.lighthouseapp.com/projects/8570/tickets/38-format-readmes-without-an-extension
+* feature request: "DokuWiki":http://www.dokuwiki.org/syntax syntax as DW is often used to write whole doKumentation for software
+* feature request: TiddlyWiki Syntax
+* feature request: Something MediaWiki like such as "MediaCloth":http://mediacloth.rubyforge.org/ or "WikiCreole":https://rubyforge.org/projects/wikicreole/
+* feature request: "txt2tags":http://txt2tags.sourceforge.net
+* feature request: support i18n filename format like README_ja.txt
+* feature request: HAML -- http://haml-lang.com/ -- *.(html)?.haml
+* feature request: creole syntax
+* feature request: support .README.* to allow projects to have a readme in a dotfile
+* feature request: syntax highlighting for code blocks
