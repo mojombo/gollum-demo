@@ -30,7 +30,7 @@ C<$code>-formatted.
 
 <img src="Example.png" align="right" alt="Figure 1." />
 <p>
-    Here's some embedded HTML.  In this block I can 
+    Here's some <b>embedded</b> HTML.  In this block I can 
     include images, apply <span style="color: green">
     styles</span>, or do anything else I can do with
     HTML.  pod parsers that aren't outputting HTML will
