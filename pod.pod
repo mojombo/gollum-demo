@@ -13,7 +13,7 @@ podsample - A sample pod document
 =head1 DESCRIPTION
 
 Here's some normal text.  It includes text that is
-B<bolded>, I<italicized>, U<underlined>, and 
+B<bolded>, I<italicized>, and 
 C<$code>-formatted.
 
 =head2 An Example List
