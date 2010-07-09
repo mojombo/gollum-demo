@@ -1,5 +1,3 @@
-# Code
-
 Here is some Ruby code:
 
 ```ruby
