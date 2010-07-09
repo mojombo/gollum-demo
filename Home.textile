@@ -10,5 +10,6 @@ See [[Names / Places]].
 
 h2. Formatting Examples
 
+* [[creole]]
 * [[orgmode]]
 * [[pod]]
