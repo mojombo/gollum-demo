@@ -11,5 +11,7 @@ Here are some hobbits:
 1. They have big feet
 2. They are super short
 
+Why else?
+
 * They can talk
 * They can dance!
