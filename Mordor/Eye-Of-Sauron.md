@@ -1,5 +1,3 @@
-# Eye Of Sauron
-
 Here are some pictures of the Eye of Sauron!
 
 Just the photo.
