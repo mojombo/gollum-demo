@@ -7,7 +7,3 @@ We can also talk about [[Code]] here.
 See how [[Formatting]] works.
 
 See [[Names / Places]].
-
-h2. Examples
-
-* [[orgmode]]
