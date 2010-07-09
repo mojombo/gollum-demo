@@ -3,3 +3,5 @@ h1. The LOTR Wiki
 This wiki is awesome. You can learn about [[Bilbo Baggins]] or some [[evil|Eye Of Sauron]] stuff.
 
 We can also talk about [[Code]] here.
+
+See how [[Formatting]] works.
