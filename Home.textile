@@ -5,3 +5,5 @@ This wiki is awesome. You can learn about [[Bilbo Baggins]] or some [[evil|Eye O
 We can also talk about [[Code]] here.
 
 See how [[Formatting]] works.
+
+See [[Names / Places]].
