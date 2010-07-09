@@ -1,5 +1,3 @@
-# Bilbo Baggins
-
 Bilbo Baggins is the protagonist of The [[Hobbit]] and also makes a few
 appearances in The Lord of the Rings, two of the most well-known of [[J. R. R.
 Tolkien]]'s fantasy writings. The story of The Hobbit featuring Bilbo is also
