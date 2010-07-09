@@ -12,4 +12,4 @@ end
 
 Tada! How about `inline :foo` code?
 
-Here is how you make a wiki link: '[[Wiki Page]]
+Here is how you make a wiki link: '[[Wiki Page]], blah.
