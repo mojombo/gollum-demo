@@ -9,7 +9,7 @@
 
 * Background
 
-I think it is an express objective of Carsten's that Org should be
+I think it is an express objective of [[http://google.com/][Carsten]]'s that Org should be
 readily accessible to all users of Emacs and not just those who might
 happen to read or hack on the code of this particular package.  To that
 end significant effort has been made and continues to be made by the Org
