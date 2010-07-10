@@ -14,4 +14,5 @@ h2. Formatting Examples
 * [[creole]]
 * [[orgmode]]
 * [[pod]]
+* [[rdoc]]
 * [[rst]]
