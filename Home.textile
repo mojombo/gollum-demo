@@ -12,6 +12,7 @@ h2. Formatting Examples
 
 * [[asciidoc]]
 * [[creole]]
+* [[markdown]]
 * [[orgmode]]
 * [[pod]]
 * [[rdoc]]
