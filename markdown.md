@@ -1,0 +1,1 @@
+Here is some *single asterisk* and **double asterisk** text.
