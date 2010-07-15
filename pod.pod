@@ -2,6 +2,9 @@
 
 podsample - A sample pod document
 
+=item * This is a bulleted list.
+=item * Here's another item.
+
 =head1 SYNOPSIS
 
     $here->isa(Piece::Of::Code);
