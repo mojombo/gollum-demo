@@ -4,9 +4,9 @@ podsample - A sample pod document
 
 =over
 
-=item 1 This is a bulleted list.
+=item This is a bulleted list.
 
-=item 2 Here's another item.
+=item Here's another item.
 
 =back
 
