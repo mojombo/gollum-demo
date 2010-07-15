@@ -15,8 +15,8 @@ SGML/XML markup) can be customized and extended by the user.
 
 Some text
 
-. Num 1
-. Num 2
+2. Num 1
+1. Num 2
 
 Introduction
 ------------
