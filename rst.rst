@@ -13,6 +13,14 @@ are relative links that point to the `Quick reStructuredText`_ user
 reference.  If these links don't work, please refer to the `master
 quick reference`_ document.
 
+* Item 1
+* Item 2
+
+Some text.
+
+1. Num 1
+2. Num 2
+
 __
 .. _Quick reStructuredText: quickref.html
 .. _master quick reference:
