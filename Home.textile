@@ -6,6 +6,8 @@ We can also talk about [[Code]] here.
 
 See how [[Formatting]] works.
 
+How about parens? [[Some (cool) Thing]]
+
 See [[Names / Places]].
 
 h2. Formatting Examples
