@@ -7,6 +7,15 @@
 #+TEXT:     set of recent doc patches.
 #+OPTIONS:  H:3 num:t toc:t \n:nil @:t ::t |:t ^:t *:t TeX:t
 
+* Background
+
+I think it is an express objective of [[http://google.com/][Carsten]]'s that Org should be
+readily accessible to all users of Emacs and not just those who might
+happen to read or hack on the code of this particular package.  To that
+end significant effort has been made and continues to be made by the Org
+community to ensure that high quality, user focused, documentation is
+readily available to everyone.
+
 * Item 1
     * Item 1.1
 * Item 2
@@ -18,15 +27,6 @@ Blah
     1. Item 1.1
 2. Item 2
 3. Item 3
-
-* Background
-
-I think it is an express objective of [[http://google.com/][Carsten]]'s that Org should be
-readily accessible to all users of Emacs and not just those who might
-happen to read or hack on the code of this particular package.  To that
-end significant effort has been made and continues to be made by the Org
-community to ensure that high quality, user focused, documentation is
-readily available to everyone.
 
 Org itself contains a comprehensive guide to using all aspects of the
 system, how to extend it yourself, and highlights some of the many
