@@ -1,12 +1,16 @@
 = RDOC - Ruby Documentation System
 
 * Item 1
+    * Item 1.1
 * Item 2
+* Item 3
 
-Some text
+Blah
 
 1. Item 1
-1. Item 2
+    1. Item 1.1
+2. Item 2
+3. Item 3
 
 This package contains Rdoc and SimpleMarkup. Rdoc is an application
 that produces documentation for one or more Ruby source files. We work
