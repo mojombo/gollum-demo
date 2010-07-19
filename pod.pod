@@ -2,11 +2,17 @@
 
 podsample - A sample pod document
 
-=over
+=over 4
 
-=item 1. This is a bulleted list.
+=item * Item 1
 
-=item 2. Here's another item.
+=over 8
+
+= item * Item 1.1
+
+=back
+
+=item * Item 2
 
 =back
 
