@@ -12,6 +12,18 @@ podsample - A sample pod document
 
 =back
 
+Blah
+
+=over 4
+
+=item 1. Item 1
+
+=item 2. Item 2
+
+=item 3. Item 3
+
+=back
+
 =head1 SYNOPSIS
 
     $here->isa(Piece::Of::Code);
