@@ -18,10 +18,10 @@ SGML/XML markup) can be customized and extended by the user.
 Some text
 
 . Item 1
-  .. two dot
-    ...three dot
-      ....four dot
-        .....five dot
+.. two dot
+... three dot
+.... four dot
+..... five dot
 . Item 2
 . Item 3
 
