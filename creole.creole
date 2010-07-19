@@ -13,6 +13,18 @@ The ending equal signs should not be displayed:
 ===== Subsubsub (5) =====
 
 
+* Item 1
+** Item 1.1
+* Item 2
+* Item 3
+
+# Item 1
+## Item 1.1
+# Item 2
+# Item 3
+
+
+
 You can make things **bold** or //italic// or **//both//** or //**both**//.
 
 Character formatting extends across line breaks: **bold,
