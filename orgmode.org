@@ -7,6 +7,18 @@
 #+TEXT:     set of recent doc patches.
 #+OPTIONS:  H:3 num:t toc:t \n:nil @:t ::t |:t ^:t *:t TeX:t
 
+* Item 1
+    * Item 1.1
+* Item 2
+* Item 3
+
+Blah
+
+1. Item 1
+    1. Item 1.1
+2. Item 2
+3. Item 3
+
 * Background
 
 I think it is an express objective of [[http://google.com/][Carsten]]'s that Org should be
