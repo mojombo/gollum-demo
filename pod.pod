@@ -6,13 +6,9 @@ podsample - A sample pod document
 
 =item * Item 1
 
-=over 8
-
-= item * Item 1.1
-
-=back
-
 =item * Item 2
+
+=item * Item 3
 
 =back
 
