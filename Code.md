@@ -1,5 +1,8 @@
 Here is some Ruby code:
 
+[[http://example.com]]
+[[Example|http://example.com]]
+
 ```ruby
 def foo
   puts 'bar'
