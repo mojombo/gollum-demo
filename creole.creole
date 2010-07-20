@@ -4,6 +4,8 @@
 ==== Subsub (4)
 ===== Subsubsub (5)
 
+x^^2^^ and H~~2~~O
+
 The ending equal signs should not be displayed:
 
 = Top-level heading (1) =
