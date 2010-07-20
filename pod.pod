@@ -2,6 +2,8 @@
 
 podsample - A sample pod document
 
+some C<code>
+
 =over 4
 
 =item * Item 1
