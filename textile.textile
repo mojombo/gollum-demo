@@ -1,5 +1,7 @@
 h1. Textile
 
+*bold* and _italic_ and @code@
+
 * Item 1
 ** Item 1.1
 * Item 2
