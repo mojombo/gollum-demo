@@ -1,5 +1,4 @@
-Here is some *single asterisk* and **double asterisk** text.
-
+Here is some *single asterisk* and **double asterisk** and <tt>monospace</tt> text.
 
 * Item 1
     * Item 1.1
