@@ -1,5 +1,7 @@
 h1. Textile
 
+[[foo]] [[bar]]
+
 *bold* and _italic_ and @code@
 
 * Item 1
