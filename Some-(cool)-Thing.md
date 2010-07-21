@@ -1,3 +1,3 @@
-[[Foo]] [[Bar]]
+a [[Foo]] [[Bar]] b
 
-[[Foo]] [[Bar]]
+a [[Foo]][[Bar]] b
