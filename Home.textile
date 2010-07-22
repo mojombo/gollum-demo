@@ -1,6 +1,6 @@
 h1. The LOTR Wiki
 
-This wiki is [[awesome]]. You can learn about [[Bilbo Baggins]] or some [[evil|Eye Of Sauron]] stuff.
+This wiki is [[awesome]] and [[badass]]. You can learn about [[Bilbo Baggins]] or some [[evil|Eye Of Sauron]] stuff.
 
 We can also talk about [[Code]] here.
 
