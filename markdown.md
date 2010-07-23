@@ -1,3 +1,5 @@
+# Markdown Rules
+
 Here is some *single asterisk* and **double asterisk** and `inline code` text.
 
 * Item 1
