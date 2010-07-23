@@ -12,7 +12,7 @@ See [[Names / Places]].
 
 h2. Formatting Examples
 
-* [[asciidoc]]
+* [[asciidoc]] [[a2]]
 * [[creole]]
 * [[markdown]]
 * [[orgmode]]
