@@ -10,21 +10,6 @@ AsciiDoc is highly configurable: both the AsciiDoc source file syntax
 and the backend output markups (which can be almost any type of
 SGML/XML markup) can be customized and extended by the user.
 
-* Item 1
-** Sub-item 1
-* Item 2
-* Item 3
-
-Some text
-
-. Item 1
-.. two dot
-... three dot
-.... four dot
-..... five dot
-. Item 2
-. Item 3
-
 Introduction
 ------------
 **********************************************************************
