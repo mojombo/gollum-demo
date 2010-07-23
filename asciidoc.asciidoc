@@ -1,7 +1,5 @@
 AsciiDoc User Guide
 ===================
-Stuart Rackham <srackham@gmail.com>
-:Author Initials: SJR
 
 AsciiDoc is a text document format for writing documentation,
 articles, manuals, books and UNIX man pages. AsciiDoc files can be
