@@ -1,4 +1,4 @@
-h1. Textile
+h1. Textile Howto
 
 [[foo]] [[bar]]
 
