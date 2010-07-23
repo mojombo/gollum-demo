@@ -1,4 +1,4 @@
-=head1 NAME
+=head1 Pod People
 
 podsample - A sample pod document
 
