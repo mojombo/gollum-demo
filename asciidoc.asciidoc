@@ -1,5 +1,6 @@
 AsciiDoc User Guide
 ===================
+
 Stuart Rackham <srackham@gmail.com>
 :Author Initials: SJR
 
