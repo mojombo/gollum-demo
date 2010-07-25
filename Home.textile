@@ -10,6 +10,8 @@ How about parens? [[Some (cool) Thing]]
 
 See [[Names / Places]].
 
+[[Math]] is fun!
+
 h2. Formatting Examples
 
 * [[asciidoc]] [[a2]]
