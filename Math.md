@@ -5,3 +5,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vel suscipit eros. Q
 Praesent nec lorem nisi, quis convallis turpis. Donec facilisis dignissim lacus, ac luctus nulla volutpat ut. Cras eu sapien eu libero pharetra vehicula. Sed scelerisque volutpat ipsum vitae porta. Aliquam nec enim libero, sed accumsan leo. Mauris posuere cursus enim sed ornare. Mauris posuere sem eget nibh tempus eget ullamcorper est cursus. Aliquam erat volutpat. Aliquam commodo tellus eget dui hendrerit malesuada.
 
 If you want when \(x < y\) we have to do something inline like \(\sqrt{3x-1}+(1+x)^2\) you can do it easily!
+
+The pythagorean formula is \( a^2 + b^2 = c^2 \).
