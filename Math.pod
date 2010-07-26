@@ -1,4 +1,4 @@
-=head1 Mathy Stuff
+=pod
 
 Test.
 
