@@ -4,10 +4,9 @@ Here is some Ruby code:
 [[Example|http://example.com]]
 
 ```ruby
-def foo
-  puts 'bar'
-  [[ foo ]]
-end
+  def foo
+    puts 'bar'
+  end
 ```
 
 ## Something else
