@@ -2,7 +2,7 @@ Here are some pictures of the Eye of Sauron!
 
 Just the photo.
 
-[[/Mordor/eye.jpg]]
+![](/Mordor/eye.jpg)
 
 With alt.
 
